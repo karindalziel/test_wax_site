@@ -1,0 +1,4 @@
+pid,artist,location,label,_date,object_type,current_location,source,order,layout,collection,thumbnail,manifest,full
+obj1,Karin,Nebraska,Cicada 1,2018,photograph,Online,https://goo.gl/photos/hrtAxWpAuhUK5Asy9,0,qatar_item,qatar,"/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",/img/derivatives/iiif/obj1/manifest.json,"/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
+obj2,Karin,Nebraska,Cicada 2,2018,photograph,Online,https://goo.gl/photos/hrtAxWpAuhUK5Asy9,1,qatar_item,qatar,"/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",/img/derivatives/iiif/obj2/manifest.json,"/img/derivatives/iiif/images/obj2/full/1140,/0/default.jpg"
+obj3,Karin,Nebraska,Cicada 3,2018,photograph,Online,https://goo.gl/photos/hrtAxWpAuhUK5Asy9,2,qatar_item,qatar,"/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",/img/derivatives/iiif/obj3/manifest.json,"/img/derivatives/iiif/images/obj3/full/1140,/0/default.jpg"
